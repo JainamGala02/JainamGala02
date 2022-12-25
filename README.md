@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jainam!
 - 👀 I’m interested in Full Stack Web Development and ML/AI
-- 🌱 I’m currently learning React and Blockchain Technology
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 🌱 I’m currently learning Web3 and other various Blockchain Technologies
+- 💞️ I’m looking to collaborate on Web Dev/ML Projects
 - 📫 How to reach me - jainamgalar6s@gmail.com
 
 <!---
