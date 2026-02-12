@@ -4,9 +4,9 @@
 **ML Research @ Institute for Experiential AI**
 
 ### Research & Interests
-Currently working on fine-tuning sentence transformers for mental health text clustering under Dr. Ruben van Genugten. My work involves large-scale data processing (550M+ Reddit posts), synthetic data generation pipelines and contrastive learning techniques.
+Currently working on fine-tuning sentence transformers for mental health text clustering under Dr. Ruben van Genugten. My work involves large-scale data processing, synthetic data generation pipelines and contrastive learning techniques.
 
-Broadly interested in **NLP**, **representation learning**, **distributed training**, and **production ML systems**.
+Broadly interested in **NLP**, **representation learning**, **distributed training** and **production ML systems**.
 
 ### Recent Work
 - Pre-trained GPT-2 from scratch on Hindi text using distributed training
