@@ -1,7 +1,9 @@
 ## Hi, I'm Jainam 👋
 
 **Software Engineer Intern @ Amazon**
+
 **ML Research @ Institute for Experiential AI**
+
 **MS Computer Science @ Northeastern University**  
 
 
