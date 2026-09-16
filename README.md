@@ -1,7 +1,9 @@
 ## Hi, I'm Jainam 👋
 
-**MS Computer Science @ Northeastern University**  
+**Software Engineer Intern @ Amazon**
 **ML Research @ Institute for Experiential AI**
+**MS Computer Science @ Northeastern University**  
+
 
 ### Research & Interests
 Currently working on fine-tuning sentence transformers for mental health text clustering under Dr. Ruben van Genugten. My work involves large-scale data processing, synthetic data generation pipelines and contrastive learning techniques.
